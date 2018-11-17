@@ -1,0 +1,25 @@
+.App{
+	text-align: center;
+	margin-top: 100px;
+}
+.button{
+	padding: 20px;
+	font-size: 20px;
+	border: none;
+	outline: none;
+	border-radius: 2px;
+	color: #fff;
+	margin: 40px 20px;
+}
+.showHideButton{
+	width: 100px;
+	background-color: #03a9f4;
+}
+.counterButton{
+	background-color: #4caf50;
+}
+.counter{
+	/*margin-top: 20px;*/
+	font-size: 40px;
+	color: #777;
+}
